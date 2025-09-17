@@ -6,8 +6,7 @@ I'm a BSc IT student passionate about Web Development. I love building projects 
 
 ## Skills 💻
 - Languages & Technologies: HTML, CSS, JavaScript, Java  
-- Backend & Database: Node.js, Express, MongoDB  
-- Frontend: React (if you know it)  
+- Backend & Database: Node.js, Express, MongoDB 
 - Tools: Git, GitHub, VS Code  
 - Other: Problem Solving, Logical Thinking
 
