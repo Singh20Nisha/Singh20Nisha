@@ -16,6 +16,7 @@ I'm a BSc IT student passionate about Web Development. I love building projects 
 3. 🗳**Voting App (WIP)** – A voting platform using Node.js, Express, and MongoDB. Currently under development.
 
 ##📌 Contact
+Email 📧: Singh.nisha.it@gmail.com 
 -LinkedIn:
 https://www.linkedin.com/in/nisha-singh-079951335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
